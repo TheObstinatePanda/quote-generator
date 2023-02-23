@@ -13,9 +13,13 @@ How to Use
 ---
  This is designed to be run with node, I am still learning how to incorporate script into HTML files/webdevelopment. As I learn that I may apply this in a webpage.
 
-Technologies: JavaScript - developed using *VisualStudio*
+Technologies
+---
+JavaScript - developed using *VisualStudio*
 
-Collaborators: Jason Newman(**theObstinatePanda**)
+Collaborators
+---
+Jason Newman(**theObstinatePanda**)
 
 License:
 ---
